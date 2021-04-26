@@ -1,0 +1,6 @@
+name: CRMapAPI
+main: net.craftrise.Main
+version: 1.0.0
+commands:
+  map:
+    description: Harita kurma sistemi
